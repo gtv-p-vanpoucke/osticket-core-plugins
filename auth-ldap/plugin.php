@@ -14,7 +14,7 @@ return array(
         "pear-pear/Net_LDAP2" => array(
             "version" => "*",
             "map" => array(
-                'pear-pear.php.net/Net_LDAP2' => 'include',
+                'pear.php.net/Net_LDAP2' => 'include',
             ),
         ),
     ),
